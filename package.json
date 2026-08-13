@@ -1,0 +1,28 @@
+{
+  "name": "practicadiagnostico-relaciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palaciosale2231/PracticaDiagnostico-Relaciones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/palaciosale2231/PracticaDiagnostico-Relaciones/issues"
+  },
+  "homepage": "https://github.com/palaciosale2231/PracticaDiagnostico-Relaciones#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.23.3",
+    "sequelize": "^6.37.8"
+  }
+}
