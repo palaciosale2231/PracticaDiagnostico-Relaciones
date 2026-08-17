@@ -6,7 +6,7 @@ import {
     updateUser,
     deleteUser 
 
-} from "../controllers/user.controller.js"
+} from "../controllers/task.controller.js"
 
 const userRouter = Router()
 
